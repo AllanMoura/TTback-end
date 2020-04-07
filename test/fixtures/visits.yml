@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2020-04-01
+  status: 1
+  user: one
+  checkin_at: 2020-04-01 17:18:36
+  checkout_at: 2020-04-01 17:18:36
+
+two:
+  date: 2020-04-01
+  status: 1
+  user: two
+  checkin_at: 2020-04-01 17:18:36
+  checkout_at: 2020-04-01 17:18:36
